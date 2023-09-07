@@ -1,6 +1,6 @@
 {
-  "heading": "Hariduskulud suurenevad kõigis ELi riikides",
-  "subheading": "Valitsussektori kulutused sõjalisele kaitsele protsendina SKTst Euroopa Liidu riikides 2020. aastal",
+  "heading": "Testi pealkiri",
+  "subheading": "Testi alampealkiri",
   "legend1": "Andmed puuduvad",
   "tooltip1": "SKTst",
   "textSourceDescription": "Allikas",
@@ -16,7 +16,7 @@
   "extraInfoLink_DE": "Loe rohkem",
   "extraInfoText_ES": "",
   "extraInfoLink_ES": "",
-  "extraInfoText_FR": "Sellega seoses on Bulgaaria valitsus loonud uue meediaseireüksuse. Uus üksus on loodud jälgima kõiki meediavorme suunatud desinformatsiooni suhtes, kuid erinevalt riigi sõltumatust elektroonilise meedia nõukogust ei ole tal õigust reguleerida ega karistada. Ja ega peakski, rõhutab Bozhanov Bulgaaria rahvusraadio intervjuus.",
+  "extraInfoText_FR": "Sellega seoses on Bulgaaria valitsus loonud uue meediaseireüksuse. Uus üksus on loodud jälgima kõiki meediavorme suunatud desinformatsiooni suhtes, kuid erinevalt riigi sõltumatust elektroonilise meedia nõukogust ei ole tal õigust reguleerida ega karistada. Ja ega peakski tegema, rõhutab Božanov Bulgaaria rahvusraadio intervjuus.",
   "extraInfoLink_FR": "",
   "extraInfoText_IT": "Sloveenia välisministeeriumi riigisekretär ja konverentsikomisjoni liige Gašper Dovžan ütleb, et Sloveenia kindlasti ei kohku tagasi julgete otsuste ees ega lükka tagasi võimalust liikuda kvalifitseeritud häälteenamuse poole. Samas usub ta, et konsensuslikul otsustamisel on veel kohta.",
   "extraInfoLink_IT": "Rohkem infot",
@@ -24,7 +24,7 @@
   "extraInfoLink_LU": "Loe rohkem",
   "extraInfoText_PL": "Vilniuse ülikooli politoloogiaprofessor Liutauras Gudzinskas ütleb Žinių Radijasele, et kuigi Euroopa Komisjoni ettepanek tugevdada meedia pluralismi ja sõltumatust ning kaitsta seda poliitiliste või äriliste sekkumiste eest võib olla kasulik ennetusvahend paljudes riikides, on see tõenäoline. Ungari jaoks liiga hilja.",
   "extraInfoLink_PL": "Rohkem informatsiooni",
-  "extraInfoText_RO": "Kuigi ülemaailmne pressivabaduse päev on 3. mail, tähistatakse Leedus ajakirjandusvabadust igal aastal 7. mail – kuna see kuupäev tähistab tsaariaegse leedukeelsete raamatute väljaandmise ja levitamise keelu lõppu.",
+  "extraInfoText_RO": "Kuigi ülemaailmne pressivabaduse päev on 3. mail, tähistatakse Leedus ajakirjandusvabadust igal aastal 7. mail, sest see kuupäev tähistab tsaariaegse leedukeelsete raamatute väljaandmise ja levitamise keelu lõppu.",
   "extraInfoLink_RO": "Kontrollige seda",
   "extraInfoText_SE": "",
   "extraInfoLink_SE": ""

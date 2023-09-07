@@ -1,6 +1,6 @@
 {
-  "heading": "Utgifterna för utbildning ökar i alla EU-länder",
-  "subheading": "Offentliga utgifter för militärt försvar i procent av BNP i länder i Europeiska unionen 2020",
+  "heading": "Test rubrik",
+  "subheading": "Testa underrubrik",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "av BNP",
   "textSourceDescription": "Källa",
@@ -25,7 +25,7 @@
   "extraInfoText_PL": "Liutauras Gudzinskas, professor i statsvetenskap vid Vilnius universitet, säger till Žinių Radijas att även om EU-kommissionens förslag att stärka mediernas mångfald och oberoende och skydda dem från politisk eller affärsmässig inblandning kan vara ett användbart förebyggande verktyg i många länder, så är det troligt. för sent för Ungern.",
   "extraInfoLink_PL": "Mer information",
   "extraInfoText_RO": "Trots att det är världspressfrihetsdagen den 3 maj, firar Litauen pressfriheten varje år den 7 maj – eftersom detta datum markerar slutet på tsarförbudet mot publicering och distribution av böcker på litauiska.",
-  "extraInfoLink_RO": "Kolla här",
+  "extraInfoLink_RO": "Kolla detta",
   "extraInfoText_SE": "",
   "extraInfoLink_SE": ""
 }
